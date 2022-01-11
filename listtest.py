@@ -10,6 +10,4 @@ alist[-1] = 100  # 修改最后一项
 print(alist)
 alist.append(200)  # 追加
 print(alist)
-"""
-元组tuple
-"""
+
